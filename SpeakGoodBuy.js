@@ -8,5 +8,4 @@
     };
 
     window.byeSpeaker = byeSpeaker;
-
 })(window);
